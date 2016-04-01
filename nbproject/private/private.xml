@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/Data/Vegetables.json</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/src/db/saladsMaker/entity/Vegetable.java</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/test/saladsMaker/service/EnergeticValueServiceTest.java</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/Data/Ru/NamesOfVegetables.json</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/test/saladsMaker/service/VegetableServiceTest.java</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/src/db/saladsMaker/controller/SaladsMakerController.java</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/test/saladsMaker/service/NameServiceTest.java</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/src/ss_5/MainWindow.fxml</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/Data/PricesOfVegetables.json</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/Data/Ru/Weights.json</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/src/db/saladsMaker/entity/Name.java</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/Data/Ru/Tastes.json</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/src/db/saladsMaker/entity/Salad.java</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/test/saladsMaker/service/SaladServiceTest.java</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/src/ss_5/MainWindowController.java</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/test/saladsMaker/service/CostServiceTest.java</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/src/db/saladsMaker/entity/Price.java</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/src/db/saladsMaker/entity/Energy.java</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/src/db/saladsMaker/entity/Ingredient.java</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/Data/En/Tastes.json</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/test/saladsMaker/service/EnergyServiceTest.java</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/src/db/saladsMaker/entity/EnergeticValue.java</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/test/saladsMaker/service/PriceServiceTest.java</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/src/db/saladsMaker/entity/Weight.java</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/Data/EnergiesOfVegetables.json</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/Data/Ru/Energies.json</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/Data/En/NamesOfVegetables.json</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/Data/En/Weights.json</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/src/db/saladsMaker/entity/Cost.java</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/Data/En/Energies.json</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/src/ss_5/SS_5.java</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/test/saladsMaker/service/WeightServiceTest.java</file>
+            <file>file:/C:/Users/Alexey/Documents/NetBeansProjects/SS_5/test/saladsMaker/service/IngredientServiceTest.java</file>
+        </group>
+    </open-files>
+</project-private>

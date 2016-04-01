@@ -1,0 +1,35 @@
+[
+    {
+        "id": 0,
+        "amount":{
+            "weightId": 0,
+            "weightCount": 1
+        },
+        "energy":{
+            "energyId": 0,
+            "energyCount": 100
+        }
+    },
+    {
+        "id": 1,
+        "amount":{
+            "weightId": 0,
+            "weightCount": 1
+        },
+        "energy":{
+            "energyId": 0,
+            "energyCount": 150
+        }
+    },
+    {
+        "id": 2,
+        "amount":{
+            "energyId": 0,
+            "weightCount": 1
+        },
+        "energy":{
+            "energyId": 0,
+            "energyCount": 175
+        }
+    }
+]

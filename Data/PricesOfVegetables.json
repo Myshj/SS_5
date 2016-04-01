@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "amount":{
+            "weightId": 0,
+            "weightCount": 1
+        },
+        "price": 100
+    },
+    {
+        "id": 1,
+        "amount":{
+            "weightId": 0,
+            "weightCount": 1
+        },
+        "price": 200
+    },
+    {
+        "id": 2,
+        "amount":{
+            "weightId": 0,
+            "weightCount": 1
+        },
+        "price": 150
+    }
+]

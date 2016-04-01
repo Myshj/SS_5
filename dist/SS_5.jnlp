@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="SS_5.jnlp">
+  <information>
+    <title>SS_5</title>
+    <vendor>Alexey</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="SS_5.jar" size="20821" download="eager" />
+    <jar href="lib\ormlite-core-4.49-SNAPSHOT.jar" size="312511" download="eager" />
+    <jar href="lib\ormlite-jdbc-4.49-SNAPSHOT.jar" size="73349" download="eager" />
+    <jar href="lib\sqlite-jdbc-3.7.2.jar" size="3201133" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="SS_5" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="ss_5.SS_5"  name="SS_5" />
+  <update check="always"/>
+</jnlp>
